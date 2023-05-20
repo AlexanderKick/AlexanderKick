@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderKick
 - 👀 I’m interested in coding, video game design, and data management.
-- 🌱 I’m currently learning C/C++ and C#.
+- 🌱 I’m experienced in C/C++, Python, and System Verilog. Currently studying HTML!
 - 📫 Reach me via email @ abkick47@gmail.com
 
 <!---
